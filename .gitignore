@@ -1,0 +1,5 @@
+# Java derleme dosyaları
+*.class
+
+# Maven build klasörü
+target/
